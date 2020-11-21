@@ -1,5 +1,11 @@
 # Smart Car
 
+### Compatible Modules
+1) NodeMCU
+2) ESP-12F
+3) ESP-12E
+4) ESP8266
+
 ### Program:
 Upload the sketch to NodeMCU or ESP-12E or ESP12-F
 
